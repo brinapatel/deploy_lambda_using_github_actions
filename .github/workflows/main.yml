@@ -73,3 +73,4 @@ jobs:
           # or if using AWS credentials directly
           AWS_ACCESS_KEY_ID: ASIAQTYOJCCM6QAMJMVO
           AWS_SECRET_ACCESS_KEY: bmAcG1xxp7jx60j/hdD6tMr4HoKNVciQpJ0TrP/Z
+          AWS_DEFAULT_REGION: us-east-1
