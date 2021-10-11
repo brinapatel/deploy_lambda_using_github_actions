@@ -1,1 +1,1 @@
-# deploy_lambda_using_github_actions
+This project tests the deployment of AWS Lambda functions using GitHub Actions.
