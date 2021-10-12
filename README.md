@@ -1,1 +1,1 @@
-This project tests the deployment of AWS Lambda functions using GitHub Actions.
+This project tests the deployment of AWS Lambda functions using GitHub Actions. The idea is to automate the process of manually deploying lambda functions.
